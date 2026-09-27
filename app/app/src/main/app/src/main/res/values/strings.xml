@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FloatChrome</string>
+    <string name="notif_channel">Floating Browser</string>
+    <string name="notif_title">FloatChrome running</string>
+    <string name="notif_text">Tap to open the floating browser</string>
+</resources>
